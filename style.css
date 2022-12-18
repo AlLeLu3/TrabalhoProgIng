@@ -28,7 +28,11 @@ fieldset{
     text-align: center;
     background-color: rgb(7, 99, 7);
 }
-
+.linguasimg{
+    text-decoration: none;
+    width: 20px;
+    height: 20px;
+}
 a{
     text-decoration: none;
     display: solid;
