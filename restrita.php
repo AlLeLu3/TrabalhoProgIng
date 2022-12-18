@@ -196,10 +196,3 @@ USUÁRIO
 </html>
 <?php
 }
-
-    ?>
-</table>
-        </main>
-</div>
-</body>
-</html>
