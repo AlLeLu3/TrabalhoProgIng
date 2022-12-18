@@ -106,6 +106,11 @@ ADMINSTRADOR
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <footer id='page-footer'>
+    <h3>Programming  3 - 2022</h3>
+    <h4><?=$texto['dev']?>: Allana dos Santos, Leonardo Haas Pies e Luana Bruch Maurer</h4>
+    </footer>
 
 </body>
 </html>
