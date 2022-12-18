@@ -32,5 +32,9 @@ $texto['restritaSLivro'] = "There are no registered books";
 /*cadastro livro*/
 $texto['registrar'] = "REGISTER BOOK";
 $texto['registro'] = "SUBMIT";
+
+
+
+$texto['dev'] = "Developers";
 $texto[''] = "";
 $texto[''] = "";
