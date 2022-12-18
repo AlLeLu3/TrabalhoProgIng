@@ -9,7 +9,6 @@ if(isset($_SESSION['idioma'])){
 }else{
     require 'idioma_in.php';
 }
-
     require 'dbcon.php';
 
 ?>
@@ -21,7 +20,7 @@ if(isset($_SESSION['idioma'])){
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <title>Editar livro</title>
+    <title><?=$texto['editarli']?></title>
 </head>
 <body>
   
@@ -33,7 +32,7 @@ if(isset($_SESSION['idioma'])){
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4>Editar livro 
+                        <h4><?=$texto['editarl']?> 
                             <a href="restrita.php" class="btn btn-danger float-end">BACK</a>
                         </h4>
                     </div>
