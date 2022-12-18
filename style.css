@@ -30,8 +30,9 @@ fieldset{
 }
 .linguasimg{
     text-decoration: none;
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
+    text-align: right;
 }
 a{
     text-decoration: none;
