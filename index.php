@@ -43,7 +43,6 @@ if(isset($_POST['botao'])){
                             <a href="idioma.php?l=pt" 
                                class="btn btn-primary float-end"
                                class="linguasimg"><img src="brasil.png"></a>
-                            <? echo="    ";?>
                             <a href="idioma.php?l=in" 
                                class="btn btn-primary float-end"
                                class="linguasimg"><img src="eua.png"></a>
