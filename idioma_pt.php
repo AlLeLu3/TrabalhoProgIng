@@ -32,7 +32,9 @@ $texto['restritaSLivro'] = "Não há livros registrados";
 $texto['registrar'] = "REGISTRAR LIVRO";
 $texto['registro'] = "REGISTRAR";
 
-
+/*editar livro*/
+$texto['editarl'] = "EDITAR LIVRO";
+$texto['editarli'] = "Editar livro";
 
 
 $texto['dev'] = "Desenvolvedores";
