@@ -48,6 +48,7 @@ ADMINSTRADOR
                     <div class="card-header">
                         <h4>
                             <?=$texto['biblioteca']?>
+                            <a href="cadastrarautor.php" class="btn btn-primary float-end"><?=$texto['criarAutor']?></a>
                             <a href="cadastrarlivro.php" class="btn btn-primary float-end"><?=$texto['criarLivro']?></a>
                         </h4>
                     </div>
