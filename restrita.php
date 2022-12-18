@@ -200,6 +200,7 @@ USUÁRIO
     
     <footer id='page-footer'>
     <h3>Programming  3 - 2022</h3>
+    <h4><?=$texto['dev']?>: Allana dos Santos, Leonardo Haas Pies e Luana Bruch Maurer</h4>
     </footer>
     
 </div>
