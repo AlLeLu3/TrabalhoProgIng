@@ -192,19 +192,11 @@ USUÁRIO
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-
-</body>
-</html>
-<?php
-}
-
-    ?>
-</table>
-        </main>
-        <footer id='page-footer'>
-            <h3>Programming  3 - 2022</h3>
-           
-                    </footer>
+    
+    <footer id='page-footer'>
+    <h3>Programming  3 - 2022</h3>
+    </footer>
+    
 </div>
 </body>
 </html>
