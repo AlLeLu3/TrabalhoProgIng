@@ -18,6 +18,7 @@ $texto['cancela'] = "CANCELAR";
 $texto['sair'] = "SAIR";
 $texto['livros'] = "Livros";
 $texto['biblioteca'] = "BIBLIOTECA";
+$texto['criarAutor'] = "Cadastrar autor";
 $texto['criarLivro'] = "Cadastrar livro";
 $texto['titulo'] = "Titulo";
 $texto['genero'] = "Gênero";
