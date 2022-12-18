@@ -200,10 +200,6 @@ USUÁRIO
     ?>
 </table>
         </main>
-        <footer id='page-footer'>
-            <h3>Programming  3 - 2022</h3>
-           
-                    </footer>
 </div>
 </body>
 </html>
