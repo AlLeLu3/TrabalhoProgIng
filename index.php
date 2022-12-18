@@ -40,8 +40,12 @@ if(isset($_POST['botao'])){
                 <div class="card">
                 <div class="card-header">
                         <h4><?=$texto['login']?> 
-                            <a href="idioma.php?l=pt" class="linguasimg"><img src="brasil.png"></a>
-                            <a href="idioma.php?l=in" class="linguasimg"><img src="eua.png"></a>
+                            <a href="idioma.php?l=pt" 
+                               class="btn btn-primary float-end"
+                               class="linguasimg"><img src="brasil.png"></a>
+                            <a href="idioma.php?l=in" 
+                               class="btn btn-primary float-end"
+                               class="linguasimg"><img src="eua.png"></a>
                             </h4>
                     </div>
                     <div class="card-body">
