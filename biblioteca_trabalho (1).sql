@@ -257,8 +257,7 @@ CREATE TABLE `usuario` (
 INSERT INTO `usuario` (`idUsuario`, `Email`, `Senha`, `admin`) VALUES
 (1, 'admin@gmail.com', '555', 1),
 (3, 'a@b.com', '123', 0),
-(5, 'testando@gmail.com', '1234', 0),
-(6, 'reidadiamba420@gmail.com', 'mine1234', 0);
+(5, 'testando@gmail.com', '1234', 0);
 
 --
 -- Índices para tabelas despejadas
