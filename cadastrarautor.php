@@ -32,7 +32,7 @@ if(isset($_SESSION['idioma'])){
                 <div class="card">
                     <div class="card-header">
                         <h4><?=$texto['registrar']?>
-                            <a href="restrita.php" class="btn btn-danger float-end"><?=$texto['voltar']?></a>
+                        <a href="listarautor.php" class="btn btn-danger float-end"><?=$texto['voltar']?></a>
                         </h4>
                     </div>
                     <div class="card-body">
