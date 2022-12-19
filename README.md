@@ -1,3 +1,3 @@
-# TrabalhoProgIngl
+# Allana, Leonardo e Luana
 Esse sistema de biblioteca online serve para fazer o download de livros em formato .PDF, sendo administrador você também poderá adicionar, editar e excluir livros. 
 Manual de instrução para manuseio do site: Para começar, faça o login na tela inicial e caso não tenha um login, crie uma conta. Também nessa mesma página é possível alterar o idioma do site (pt-BR ou en en). Se for um usuário padrão, poderá escolher algum livro que está listado e fazer seu download. Caso seja um administrador do site, poderá cadastrar um novo livro clicando no botão direito superior, editar, excluir e fazer download do livro (essas opções aparecem na coluna do lado direito de cada livro). Independentemenete do usuário, poderá efetuar o logout clicando no botão no canto esquerdoi superior.
