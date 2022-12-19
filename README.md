@@ -1,1 +1,2 @@
 # TrabalhoProgIngl
+Esse sistema de biblioteca online serve para fazer o download de livros em formato .PDF, sendo administrador você também poderá adicionar, editar e excluir livros. Para começar, faça o login na tela inicial. Caso não tenha um login, crie uma conta. Para o usuário normal, só será mostrado a lista de livros disponíveis e a opção de baixar. Para o administrador é mostrada a lista de livros e as opções de cadastrar, editar e excluir.
