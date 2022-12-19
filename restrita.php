@@ -43,11 +43,10 @@ ADMINSTRADOR
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                            <a href="sair.php" class="btn btn-primary"><?=$texto['sair']?></a>
-                    </div>
-                    <div class="card-header">
                         <h4>
                             <?=$texto['biblioteca']?>
+                            <a href="sair.php" class="btn btn-danger float-end"><?=$texto['sair']?></a>
+                            <a href="listarautor.php" class="btn btn-primary float-end"><?=$texto['vautores']?></a>
                             <a href="cadastrarlivro.php" class="btn btn-primary float-end"><?=$texto['criarLivro']?></a>
                         </h4>
                     </div>
@@ -137,10 +136,9 @@ USUÁRIO
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <a href="sair.php" class="btn btn-primary"><?=$texto['sair']?></a>
-                    </div>
-                    <div class="card-header">
-                        <h4><?=$texto['biblioteca']?></h4>
+                        <h4><?=$texto['biblioteca']?>
+                        <a href="sair.php" class="btn btn-danger float-end"><?=$texto['sair']?></a>
+                        </h4>
                     </div>
                     <div class="card-body">
                         <table class="table table-bordered table-striped">
