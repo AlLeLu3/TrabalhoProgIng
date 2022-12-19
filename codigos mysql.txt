@@ -1,6 +1,0 @@
-CREATE TABLE usuario (
-     idUsuario MEDIUMINT NOT NULL AUTO_INCREMENT,
-     Email VARCHAR(200) NOT NULL,
-     Senha VARCHAR(50) NOT NULL,
-     PRIMARY KEY (idUsuario)
-);
