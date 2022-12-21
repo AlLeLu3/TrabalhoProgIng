@@ -41,7 +41,7 @@ $texto['cadastrar'] = "Ocorreu um erro! Não foi possível cadastrar o livro.";
 $texto['editarl'] = "EDITAR LIVRO";
 $texto['editarli'] = "Editar livro";
 $texto['suceditar'] = "Livro atualizado com sucesso";
-$texto['editar'] = "O livro não foi atualizado";
+$texto['editarn'] = "O livro não foi atualizado";
 
 /*excluir*/
 $texto['sucexcluir'] = "Livro excluido com sucesso";
