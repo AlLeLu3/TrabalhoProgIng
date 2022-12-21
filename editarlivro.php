@@ -57,15 +57,15 @@ if(isset($_SESSION['idioma'])){
                                         <input type="text" name="Titulo" value="<?=$livro['Titulo'];?>" required class="form-control">
                                     </div>
                                     <div class="mb-3">
-                                        <label>Genre</label>
+                                        <label><?=$texto['genero']?></label>
                                         <input type="text" name="Genero" value="<?=$livro['Genero'];?>" required class="form-control">
                                     </div>
                                     <div class="mb-3">
-                                        <label>Year</label>
+                                        <label><?=$texto['ano']?></label>
                                         <input type="number" min=1900 max=2023 name="Ano" value="<?=$livro['Ano'];?>" required class="form-control">
                                     </div>
                                     <div class="mb-3">
-                                        <label>Author</label>
+                                        <label><?=$texto['autor']?></label>
                                         <select name="Nome" required class="form-control">
                                     <?php
                                         $query = "SELECT Nome, idAutor FROM autor ORDER BY Nome ASC";
@@ -90,7 +90,7 @@ if(isset($_SESSION['idioma'])){
                                     </div>
                                     <div class="mb-3">
                                         
-                                        <button type="submit" name="editarlivro" class="btn btn-primary">Submit</button>
+                                        <button type="submit" name="editarlivro" class="btn btn-primary"><?=$texto['registro']?></button>
                                     </div>
 
                                 </form>
@@ -98,7 +98,7 @@ if(isset($_SESSION['idioma'])){
                             }
                             else
                             {
-                                echo "<h4>Nenhum ID encontrado</h4>";
+                                echo "<h4><?=$texto['idn']?></h4>";
                             }
                         }
                         ?>
