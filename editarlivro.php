@@ -98,7 +98,7 @@ if(isset($_SESSION['idioma'])){
                             }
                             else
                             {
-                                echo "<h4><?=$texto['idn']?></h4>";
+                                echo "<h4>$texto['idn']</h4>";
                             }
                         }
                         ?>
