@@ -40,7 +40,8 @@ $texto['cadastrar'] = "Error! It was not possible to register the book";
 $texto['editarl'] = "EDIT BOOK";
 $texto['editarli'] = "Edit book";
 $texto['suceditar'] = "Successfully edited book!";
-$texto['editarr'] = "Error! It was not possible to edit the book";
+$texto['editar'] = "Error! It was not possible to edit the book";
+$texto['idn'] = "No ID found";
 
 /*excluir*/
 $texto['sucexcluir'] = "Successfully deleted book!";
