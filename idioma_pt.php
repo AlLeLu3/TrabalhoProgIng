@@ -42,6 +42,7 @@ $texto['editarl'] = "EDITAR LIVRO";
 $texto['editarli'] = "Editar livro";
 $texto['suceditar'] = "Livro atualizado com sucesso";
 $texto['editarn'] = "O livro não foi atualizado";
+$texto['idn'] = "Nenhum ID encontrado";
 
 /*excluir*/
 $texto['sucexcluir'] = "Livro excluido com sucesso";
